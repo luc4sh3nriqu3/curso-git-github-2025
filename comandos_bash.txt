@@ -1,0 +1,9 @@
+commit é o "checkpoint" que salva o progresso atual do código
+'ls' -> lista todos os arquivos e pastas de onde estamos
+'cd' -> muda de diretório
+'pwd' -> (print work director) mostra o caminho absoluto de onde estamos
+'ls -a' -> lista todos os arquivos (inclusive os arquivos ocultos) - Ex: /. (referência da pasta pra ela mesma) e /.. (Nó pai do diretório que estamos)
+'cd ..' -> Vai pra pasta acima de onde estamos (volta um nível)
+'CRL + L' -> limpa o terminal
+'mkdir' -> cria um diretório
+'cat' -> Mostra, no terminal, o conteúdo de um arquivo
