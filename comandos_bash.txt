@@ -33,6 +33,7 @@ commit é o "checkpoint" que salva o progresso atual do código
 
 'git commit -m "Primeiros comandos bash" ' -> Criando um commit e colocando um comentário no commit
 
+'nano' -> Permite editar texto dentro do terminal
 
-
+'git logs' -> Lista todos os commits (Histórico)
 ========================================================================
