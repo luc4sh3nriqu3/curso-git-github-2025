@@ -49,3 +49,5 @@ commit é o "checkpoint" que salva o progresso atual do código
 8. git status
 9. volta para o passo 3.
 ========================================================================
+
+fodase
