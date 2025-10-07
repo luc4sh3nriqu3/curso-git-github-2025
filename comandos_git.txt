@@ -8,3 +8,4 @@ git diff . -> Faz isso pra todos os arquivos
 git reset nome_arquvivo> -> Retira o arquivo do status de stage (quando damos um git add), ou seja, retira ele para ser commitado
 git checkout -b nome_branch -> Cria uma nova branch
 git branch -> Mostra todas as branchs do seu projeto, além de mostrar em qual branch você está
+git branch -D nome_branch -> Deleta a branch especificada
