@@ -1,7 +1,7 @@
-git init. -> cria um repo git na pasta atual
-git status -> mostra o status do trabalho (de cada arquivo)
-git add nome_arquivo -> adiciona arquivo para ser commitado
-git commit -m "msg" -> faz commit do que estava para ser commitado
+git init. 		-> Cria um repo git na pasta atual
+git status 		-> Mostra o status do trabalho (de cada arquivo)
+git add nome_arquivo 	-> Adiciona arquivo para ser commitado
+git commit -m "msg" 	-> Faz commit do que estava para ser commitado
 git log -> mostra todo o histórico de commits
 git diff -> Mostra as diferenças no arquivo desde o último commit
 git diff . -> Faz isso pra todos os arquivos
@@ -9,3 +9,5 @@ git reset nome_arquvivo> -> Retira o arquivo do status de stage (quando damos um
 git checkout -b nome_branch -> Cria uma nova branch
 git branch -> Mostra todas as branchs do seu projeto, além de mostrar em qual branch você está
 git branch -D nome_branch -> Deleta a branch especificada
+
+#Fodase
