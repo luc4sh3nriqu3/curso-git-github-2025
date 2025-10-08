@@ -1,4 +1,4 @@
-# Curso TMW Git e GitHub 2025
+# Curso Git e GitHub 2025
 
 Um curso que estou realizando para aprender os passos iniciais da utilização de Git e GitHub, que são ferramentas essenciais para versionamento de código e são amplamente utilizadas no mercado de trabalho.
 
@@ -47,4 +47,5 @@ Além disso, irei aprender a trabalhar com GitFlow e VSCode junto com Git.
 13. git branch -D <nova_branch>
 
 ---- 
+
 
