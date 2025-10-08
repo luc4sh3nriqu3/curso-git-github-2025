@@ -10,3 +10,7 @@ No curso, estou aprendendo a versionar códigos e trabalhar com repositórios re
 
 Além disso, irei aprender a trabalhar com GitFlow e VSCode junto com Git.
 
+
+
+---------------
+
