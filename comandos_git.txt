@@ -13,6 +13,6 @@ git branch -D nome_branch -> Deleta a branch especificada
 
 ========================================= GIT HUB =========================================
 git remote add origin https://github.com... -> Vincula um repositório remoto (endereço especificado) ao nosso repositório local
-git push -u origin main -> Enviando para a nossa origem/repo_remoto as alterações que ocorreram na branch main (Alterações que foram realizadas desde a criação do repositório local). Basicamente estamos atualizando o repositório remoto com tudo o que o nosso repositório local possui
+git push origin main -> Enviando para a nossa origem/repo_remoto as alterações que ocorreram na branch main (Alterações que foram realizadas desde a criação do repositório local). Basicamente estamos atualizando o repositório remoto com tudo o que o nosso repositório local possui
 ===========================================================================================
 #Fodase
